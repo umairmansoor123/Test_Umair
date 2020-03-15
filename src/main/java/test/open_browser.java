@@ -18,6 +18,7 @@ public class open_browser {
                     driver.manage().window().maximize();
                     driver.get("http://google.com");
                     driver.quit();
+                    driver.quit();
                 }
             }
 

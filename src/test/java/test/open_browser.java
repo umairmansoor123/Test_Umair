@@ -13,7 +13,7 @@ public class open_browser {
     static WebDriver webDriver;
     /**
      * @param args
-     * @throws InterruptedException
+    // * @throws InterruptedException
      */
     public static void main(final String[] args) throws InterruptedException {
         // Telling the system where to find the chrome driver
